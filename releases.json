@@ -63,7 +63,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 110,
-        "download_count": 298,
+        "download_count": 299,
         "created_at": "2018-07-11T03:47:03Z",
         "updated_at": "2018-07-11T03:47:03Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-releases/releases/download/201807101745/OpenJDK10_aarch64_Linux_201807101745.sha256.txt"
@@ -131,7 +131,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 110,
-        "download_count": 297,
+        "download_count": 298,
         "created_at": "2018-07-11T03:47:44Z",
         "updated_at": "2018-07-11T03:47:44Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-releases/releases/download/201807101745/OpenJDK10_ppc64le_Linux_201807101745.sha256.txt"
@@ -267,7 +267,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 106,
-        "download_count": 314,
+        "download_count": 315,
         "created_at": "2018-07-11T03:48:04Z",
         "updated_at": "2018-07-11T03:48:04Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-releases/releases/download/201807101745/OpenJDK10_x64_Linux_201807101745.sha256.txt"
@@ -369,7 +369,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 230237334,
-        "download_count": 372,
+        "download_count": 373,
         "created_at": "2018-07-11T03:48:24Z",
         "updated_at": "2018-07-11T03:48:37Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-releases/releases/download/201807101745/OpenJDK10_x64_Mac_201807101745.tar.gz"
@@ -437,7 +437,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 231024676,
-        "download_count": 394,
+        "download_count": 395,
         "created_at": "2018-07-11T03:48:38Z",
         "updated_at": "2018-07-11T03:48:50Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-releases/releases/download/201807101745/OpenJDK10_x64_Windows_201807101745.zip"
