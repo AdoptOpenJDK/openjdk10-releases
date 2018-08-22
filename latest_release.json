@@ -62,7 +62,7 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 110,
-      "download_count": 376,
+      "download_count": 377,
       "created_at": "2018-07-11T03:47:03Z",
       "updated_at": "2018-07-11T03:47:03Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-releases/releases/download/jdk-10.0.1%2B10/OpenJDK10_aarch64_Linux_201807101745.sha256.txt"
@@ -96,7 +96,7 @@
       "content_type": "application/gzip",
       "state": "uploaded",
       "size": 362871211,
-      "download_count": 184,
+      "download_count": 185,
       "created_at": "2018-07-11T03:47:04Z",
       "updated_at": "2018-07-11T03:47:27Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-releases/releases/download/jdk-10.0.1%2B10/OpenJDK10_aarch64_Linux_201807101745.tar.gz"
@@ -130,7 +130,7 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 110,
-      "download_count": 375,
+      "download_count": 376,
       "created_at": "2018-07-11T03:47:44Z",
       "updated_at": "2018-07-11T03:47:44Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-releases/releases/download/jdk-10.0.1%2B10/OpenJDK10_ppc64le_Linux_201807101745.sha256.txt"
@@ -266,7 +266,7 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 106,
-      "download_count": 397,
+      "download_count": 398,
       "created_at": "2018-07-11T03:48:04Z",
       "updated_at": "2018-07-11T03:48:04Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-releases/releases/download/jdk-10.0.1%2B10/OpenJDK10_x64_Linux_201807101745.sha256.txt"
